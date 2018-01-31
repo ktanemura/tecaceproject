@@ -1,0 +1,7 @@
+{
+  "className": "Fragment 3",
+  "classPath": "co.tanemura.kyle.tecaceproject.Fragment3",
+  "layoutFile": "fragment3_layout",
+  "animationEnter": "enter_right",
+  "animationExit": "exit_left"
+}
