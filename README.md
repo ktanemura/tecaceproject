@@ -3,6 +3,10 @@ Project for TecAce application
 
 3 Fragments that transition to each other.  Fragments are programatically created using Java reflect using data stored in JSON files.
 
+## Video Demo
+Demo of the application recorded on my device
+https://streamable.com/d5pwd
+
 ## Class files
 Class files are found in app/src/main/java/co/tanemura/kyle/tecaceproject folder
 
