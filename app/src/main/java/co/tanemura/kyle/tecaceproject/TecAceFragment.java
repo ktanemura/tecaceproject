@@ -63,7 +63,7 @@ abstract public class TecAceFragment extends Fragment{
                 else {
                     titleContent = info.getClassName();
                 }
-                num = (num < 2) ? num + 1 : 0;
+                num = (num < jsonFiles.size() - 1) ? num + 1 : 0;
 
                 // Get next fragment JSON data
                 FragmentInfo nextFragment = new FragmentInfo(jsonFiles.get(num));
